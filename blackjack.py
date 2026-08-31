@@ -65,7 +65,7 @@ def code():
         break
   computer_score=calculate_score(computer_cards)
 
-  print(f'computer_cards are: ({computer_cards}')
+  print(f'computer cards are: ({computer_cards}')
   print(f'all: {computer_score}')
   
   if player_score>21:
